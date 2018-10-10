@@ -1,0 +1,2 @@
+# smartChatAdmin
+react admin page
